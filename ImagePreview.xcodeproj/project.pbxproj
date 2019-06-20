@@ -14,6 +14,19 @@
 		4CF0D8E6228E97100077165A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CF0D8E4228E97100077165A /* LaunchScreen.storyboard */; };
 		4CF0D8F1228E97100077165A /* ImagePreviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D8F0228E97100077165A /* ImagePreviewTests.swift */; };
 		4CF0D8FC228E97100077165A /* ImagePreviewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D8FB228E97100077165A /* ImagePreviewUITests.swift */; };
+		4CF0D90A228E97160077165A /* ImagePreviewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D909228E97150077165A /* ImagePreviewController.swift */; };
+		4CF0D918228E97310077165A /* OptionalExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D90C228E97310077165A /* OptionalExtension.swift */; };
+		4CF0D919228E97310077165A /* CLLocationCoordinateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D90D228E97310077165A /* CLLocationCoordinateExtension.swift */; };
+		4CF0D91A228E97310077165A /* UIImageViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D90E228E97310077165A /* UIImageViewExtension.swift */; };
+		4CF0D91B228E97310077165A /* EncodableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D90F228E97310077165A /* EncodableExtension.swift */; };
+		4CF0D91C228E97310077165A /* NSObjectExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D910228E97310077165A /* NSObjectExtension.swift */; };
+		4CF0D91D228E97310077165A /* UIViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D911228E97310077165A /* UIViewControllerExtension.swift */; };
+		4CF0D91E228E97310077165A /* UITableViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D912228E97310077165A /* UITableViewExtension.swift */; };
+		4CF0D91F228E97310077165A /* UIStoryboardExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D913228E97310077165A /* UIStoryboardExtension.swift */; };
+		4CF0D920228E97310077165A /* UIFontExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D914228E97310077165A /* UIFontExtension.swift */; };
+		4CF0D921228E97310077165A /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D915228E97310077165A /* StringExtension.swift */; };
+		4CF0D922228E97310077165A /* DictionaryExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D916228E97310077165A /* DictionaryExtension.swift */; };
+		4CF0D923228E97310077165A /* UIImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF0D917228E97310077165A /* UIImageExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +60,19 @@
 		4CF0D8F7228E97100077165A /* ImagePreviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImagePreviewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CF0D8FB228E97100077165A /* ImagePreviewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePreviewUITests.swift; sourceTree = "<group>"; };
 		4CF0D8FD228E97100077165A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4CF0D909228E97150077165A /* ImagePreviewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePreviewController.swift; sourceTree = "<group>"; };
+		4CF0D90C228E97310077165A /* OptionalExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionalExtension.swift; sourceTree = "<group>"; };
+		4CF0D90D228E97310077165A /* CLLocationCoordinateExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CLLocationCoordinateExtension.swift; sourceTree = "<group>"; };
+		4CF0D90E228E97310077165A /* UIImageViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageViewExtension.swift; sourceTree = "<group>"; };
+		4CF0D90F228E97310077165A /* EncodableExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EncodableExtension.swift; sourceTree = "<group>"; };
+		4CF0D910228E97310077165A /* NSObjectExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSObjectExtension.swift; sourceTree = "<group>"; };
+		4CF0D911228E97310077165A /* UIViewControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewControllerExtension.swift; sourceTree = "<group>"; };
+		4CF0D912228E97310077165A /* UITableViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITableViewExtension.swift; sourceTree = "<group>"; };
+		4CF0D913228E97310077165A /* UIStoryboardExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIStoryboardExtension.swift; sourceTree = "<group>"; };
+		4CF0D914228E97310077165A /* UIFontExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIFontExtension.swift; sourceTree = "<group>"; };
+		4CF0D915228E97310077165A /* StringExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
+		4CF0D916228E97310077165A /* DictionaryExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DictionaryExtension.swift; sourceTree = "<group>"; };
+		4CF0D917228E97310077165A /* UIImageExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +103,7 @@
 		4CF0D8CF228E970E0077165A = {
 			isa = PBXGroup;
 			children = (
+				4CF0D90B228E97310077165A /* Extensions */,
 				4CF0D8DA228E970E0077165A /* ImagePreview */,
 				4CF0D8EF228E97100077165A /* ImagePreviewTests */,
 				4CF0D8FA228E97100077165A /* ImagePreviewUITests */,
@@ -97,6 +124,7 @@
 		4CF0D8DA228E970E0077165A /* ImagePreview */ = {
 			isa = PBXGroup;
 			children = (
+				4CF0D909228E97150077165A /* ImagePreviewController.swift */,
 				4CF0D8DB228E970E0077165A /* AppDelegate.swift */,
 				4CF0D8DD228E970E0077165A /* ViewController.swift */,
 				4CF0D8DF228E970E0077165A /* Main.storyboard */,
@@ -123,6 +151,25 @@
 				4CF0D8FD228E97100077165A /* Info.plist */,
 			);
 			path = ImagePreviewUITests;
+			sourceTree = "<group>";
+		};
+		4CF0D90B228E97310077165A /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				4CF0D90C228E97310077165A /* OptionalExtension.swift */,
+				4CF0D90D228E97310077165A /* CLLocationCoordinateExtension.swift */,
+				4CF0D90E228E97310077165A /* UIImageViewExtension.swift */,
+				4CF0D90F228E97310077165A /* EncodableExtension.swift */,
+				4CF0D910228E97310077165A /* NSObjectExtension.swift */,
+				4CF0D911228E97310077165A /* UIViewControllerExtension.swift */,
+				4CF0D912228E97310077165A /* UITableViewExtension.swift */,
+				4CF0D913228E97310077165A /* UIStoryboardExtension.swift */,
+				4CF0D914228E97310077165A /* UIFontExtension.swift */,
+				4CF0D915228E97310077165A /* StringExtension.swift */,
+				4CF0D916228E97310077165A /* DictionaryExtension.swift */,
+				4CF0D917228E97310077165A /* UIImageExtension.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -256,8 +303,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CF0D919228E97310077165A /* CLLocationCoordinateExtension.swift in Sources */,
+				4CF0D91E228E97310077165A /* UITableViewExtension.swift in Sources */,
 				4CF0D8DE228E970E0077165A /* ViewController.swift in Sources */,
+				4CF0D91D228E97310077165A /* UIViewControllerExtension.swift in Sources */,
+				4CF0D91A228E97310077165A /* UIImageViewExtension.swift in Sources */,
+				4CF0D922228E97310077165A /* DictionaryExtension.swift in Sources */,
+				4CF0D91B228E97310077165A /* EncodableExtension.swift in Sources */,
+				4CF0D91F228E97310077165A /* UIStoryboardExtension.swift in Sources */,
+				4CF0D923228E97310077165A /* UIImageExtension.swift in Sources */,
+				4CF0D918228E97310077165A /* OptionalExtension.swift in Sources */,
 				4CF0D8DC228E970E0077165A /* AppDelegate.swift in Sources */,
+				4CF0D90A228E97160077165A /* ImagePreviewController.swift in Sources */,
+				4CF0D920228E97310077165A /* UIFontExtension.swift in Sources */,
+				4CF0D921228E97310077165A /* StringExtension.swift in Sources */,
+				4CF0D91C228E97310077165A /* NSObjectExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -432,14 +492,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GA4BAP9K3F;
 				INFOPLIST_FILE = ImagePreview/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = www.www.demoLib.ImagePreview;
+				PRODUCT_BUNDLE_IDENTIFIER = www.www.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -449,14 +512,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GA4BAP9K3F;
 				INFOPLIST_FILE = ImagePreview/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = www.www.demoLib.ImagePreview;
+				PRODUCT_BUNDLE_IDENTIFIER = www.www.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
